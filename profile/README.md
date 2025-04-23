@@ -1,6 +1,6 @@
 # Holotrade
 
-A new protocol grown from traditonal-crypto roots: decentralized, equal, cheap.
+A new protocol grown from traditional-crypto roots: decentralized, cheap, equal.
 
 > "The root problem with conventional currency is all the trust that’s required to make it work."
 >
