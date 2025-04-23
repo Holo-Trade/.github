@@ -1,4 +1,6 @@
-<img src="./Banner.png"></img>
+![Banner](./Dark%20Banner.png#gh-dark-mode-only)
+![Banner](./Light%20Banner.png#gh-light-mode-only)
+
 
 # HoloTrade
 
