@@ -12,6 +12,10 @@ HoloTrade is a decentralized protocol that allows you to automatically mirror tr
 - **No middlemen**: Trades are mirrored via smart contracts owned by you
 - **Complete transparency**: All activity is publicly verifiable on Solana
 
+## The Protocol
+
+...
+
 ---
 
 *Brought to you by builders who believe DeFi should be fast, fair, and free.*
