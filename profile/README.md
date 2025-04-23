@@ -1,3 +1,5 @@
+<img src="./Banner.png"></img>
+
 # HoloTrade
 
 **Decentralized | Zero-Trust | Copy Trading on Solana**
